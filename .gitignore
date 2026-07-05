@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.vscode/
+.pytest_cache/
+.DS_Store
+
+# Local-only files (benches, exploration notes, generated outputs)
+ANALYSIS.md
+anima_SPEED.json
+bench.py
+qbench.py
+bench_runs/
